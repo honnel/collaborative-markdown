@@ -1,0 +1,15 @@
+{
+	"redis" : {
+		"unixport" : "" 
+	},
+	"mongodb" : { 
+		"host" : "",
+		"port" : ,
+		"username" : "",
+		"password" :  ""	
+	},
+	"collabdown" : {
+		"secret" : "",
+		"port" : 
+	}
+}
